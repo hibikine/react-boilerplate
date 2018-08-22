@@ -24,7 +24,7 @@
     "react-test-renderer": "^16.3.2",
     "ts-jest": "^23.1.4",
     "ts-loader": "^4.3.0",
-    "typescript": "^2.8.3",
+    "typescript": "^3.0.1",
     "typescript-eslint-parser": "^15.0.0",
     "webpack": "^4.17.1",
     "webpack-cli": "^3.1.0",
