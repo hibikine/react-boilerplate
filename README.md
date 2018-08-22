@@ -4,7 +4,7 @@ Hibikine Kage's React Boilderplate
 
 ## Requirements
 
-* yarn
+- yarn
 
 ## Development
 
@@ -14,10 +14,8 @@ yarn start
 
 ## Stack
 
-* React
-* Babel
-* Sass
-* Webpack V4
-* TypeScript
-* ESLint
-* Prettier
+- React
+- Webpack V4
+- TypeScript
+- ESLint
+- Prettier
