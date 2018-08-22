@@ -43,7 +43,7 @@
   },
   "scripts": {
     "start": "webpack-serve --content ./public",
-    "build": "webpack",
+    "build": "webpack --config webpack.config.build.js",
     "lint": "eslint --ext .ts,.tsx src",
     "test": "jest"
   },
