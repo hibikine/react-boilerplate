@@ -8,6 +8,7 @@ cache:
 install:
   - yarn
 scripts:
+  - yarn lint
   - yarn build
   - yarn test
 deploy:

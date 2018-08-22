@@ -11,6 +11,12 @@ module.exports = {
     /* ファイルローダーなどの設定 */
     rules: [
       {
+        enforce: 'pre',
+        test: /\.(j|t)sx?$/,
+        exclude: /node_modules/,
+        loader: 'eslint-loader',
+      },
+      {
         /* JavaScript */
         test: /\.jsx?$/,
         exclude: /node_modules/,
